@@ -18,7 +18,7 @@ You will need the following hardware, tools, and software to complete this proje
 
 -   [Raspberry Pi 3 or 4](https://a.co/d/5Tn67G3)
 
-    -   [Check out the Viam Raspberry Pi Setup Guide for steps on how to get started](https://docs.viam.com/getting-started/installation/)
+    -   [Check out the Viam Raspberry Pi Setup Guide for steps on how to get started](https://docs.viam.com/docs/getting-started/installation/)
 
     -   [Be sure that you have set up Viam Server on your Raspberry Pi as well.](https://docs.viam.com/getting-started/installation/#installing-viam-server)
 
